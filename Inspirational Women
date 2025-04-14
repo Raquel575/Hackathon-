@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Inspirational Women</title>
+  </head>
+  <body>
+    <header>
+      <h1>Inspirational Women</h1>
+        <h2>Oprah Winfrey</h2>
+        <a href="opraha.jpg">Click Me!</a>
+        <h2>Michelle Obama</h2>
+        <h2>Next</h2>
+        <h2>Next</h2>
+    </header>
+    <main>
+    </main>
+  </body>
+</html>
