@@ -8,18 +8,20 @@
   <body>
     <header>
       <h1>Inspirational Women</h1>
-        <h2>Oprah Winfrey</h2>
-        <a href="oprah.html">Click Me!</a>
-        <h2>Michelle Obama</h2>
-        <a href="michelle.html">Click Me!</a>
-        <h2>Malala Yousafzai</h2>
-        <a href="malala.html">Click Me!</a>
-        <h2>Rosa Parks</h2>
-        <a href="rosa.html">Click Me!</a>
-        <h2>Marie Curie</h2>
-        <a href="marie.html">Click Me!</a>
     </header>
     <main>
+        <h3>Oprah Winfrey</h3>
+        <a href="oprah.html">Click Me!</a>
+        <h3>Michelle Obama</h3>
+        <a href="michelle.html">Click Me!</a>
+        <h3>Malala Yousafzai</h3>
+        <a href="malala.html">Click Me!</a>
+        <h3>Rosa Parks</h3>
+        <a href="rosa.html">Click Me!</a>
+        <h3>Marie Curie</h3>
+        <a href="marie.html">Click Me!</a>
+        <h3>Diana, Princess of Wales</h3>
+        <a href="diana.html">Click Me!</a>
     </main>
   </body>
 </html>
