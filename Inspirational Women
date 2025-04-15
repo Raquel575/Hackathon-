@@ -24,6 +24,12 @@
         <a href="diana.html">Click Me!</a>
         <h3>Florence Nightingale</h3>
         <a href="florence.html">Click Me!</a>
+        <h3>Dolly Parton</h3>
+        <a href="dolly.html">Click Me!</a>  
+        <h3>Harriet Tubman</h3>
+        <a href="harriet.html">Click Me!</a>
+        <h1></h1>
+        <a href="next.html">Next Page</a>
     </main>
   </body>
 </html>
