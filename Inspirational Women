@@ -11,7 +11,9 @@
         <h2>Oprah Winfrey</h2>
         <a href="oprah.html">Click Me!</a>
         <h2>Michelle Obama</h2>
-        <h2>Next</h2>
+        <a href="michelle.html">Click Me!</a>
+        <h2>Malala Yousafzai</h2>
+        <a href="malala.html">Click Me!</a>
         <h2>Next</h2>
     </header>
     <main>
